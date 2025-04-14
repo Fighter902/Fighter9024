@@ -9,7 +9,7 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 bot = telebot.TeleBot('6829329110:AAH89A7vnUyypU8hh_1ssJYUUiAtYcLAYCU')
 
 # Admin user IDs (replace with your own admin IDs as strings)
-admin_ids = ["1789079780 -1002470771241"]
+admin_ids = ["1789079780"]
 
 # File to store allowed user IDs with expiry dates
 USER_FILE = "users.txt"
